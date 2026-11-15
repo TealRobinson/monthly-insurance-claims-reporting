@@ -1,0 +1,54 @@
+﻿Claim_ID,Policy_ID,Payment_Date,Claim_Type,Region_Location,State,Handler_Contact,Paid_Amount_AUD,Payment_Method,Claim_Notes
+SLI-26-04-0001,POL-01236,13/04/2026,Home,Adelaide | CBD,SA,Luca Bennett (luca.bennett@southernlantern.example) | Southern Lantern Insurance,16892.95,Direct Deposit,Roof Storm Damage
+SLI-26-04-0002,POL-01213,10/04/2026,Travel,Hobart | CBD,TAS,Noah Singh (noah.singh@southernlantern.example) | Southern Lantern Insurance,6779.37,Bank Transfer,Trip Cancellation
+SLI-26-04-0003,POL-01252,19/04/2026,Home,Newcastle | Hamilton,NSW,Asha Patel (asha.patel@southernlantern.example) | Southern Lantern Insurance,15819.34,Direct Deposit,Accidental Property Damage
+SLI-26-04-0004,POL-01303,28/04/2026,Commercial Property,Launceston | CBD,TAS,Jordan Nguyen (jordan.nguyen@southernlantern.example) | Southern Lantern Insurance,14749.60,Direct Deposit,Commercial Water Damage
+SLI-26-04-0005,POL-01229,03/04/2026,Commercial Property,Sydney | Parramatta,NSW,Asha Patel (asha.patel@southernlantern.example) | Southern Lantern Insurance,38060.53,Direct Deposit,Equipment Repair
+SLI-26-04-0006,POL-01252,18/04/2026,Commercial Property,Hobart | CBD,TAS,Zara Wilson (zara.wilson@southernlantern.example) | Southern Lantern Insurance,8698.73,Bank Transfer,Equipment Repair
+SLI-26-04-0007,POL-01271,05/04/2026,Commercial Property,Brisbane | CBD,QLD,Jordan Nguyen (jordan.nguyen@southernlantern.example) | Southern Lantern Insurance,20007.41,Direct Deposit,Equipment Repair
+SLI-26-04-0008,POL-01314,19/04/2026,Contents,Broome | Central,WA,Jordan Nguyen (jordan.nguyen@southernlantern.example) | Southern Lantern Insurance,6776.54,Direct Deposit,Electronic Equipment Damage
+SLI-26-04-0009,POL-01202,19/04/2026,Motor,Broome | Central,WA,Luca Bennett (luca.bennett@southernlantern.example) | Southern Lantern Insurance,4526.00,EFT,Vehicle Collision Repair
+SLI-26-04-0010,POL-01246,18/04/2026,Motor,Melbourne | CBD,VIC,Mia Collins (mia.collins@southernlantern.example) | Southern Lantern Insurance,5411.66,Bank Transfer,Vehicle Collision Repair
+SLI-26-04-0011,POL-01280,14/04/2026,Home,Perth | CBD,WA,Zara Wilson (zara.wilson@southernlantern.example) | Southern Lantern Insurance,17968.46,EFT,Roof Storm Damage
+SLI-26-04-0012,POL-01304,03/04/2026,Liability,Bunbury | Central,WA,Asha Patel (asha.patel@southernlantern.example) | Southern Lantern Insurance,18643.47,Bank Transfer,Third-Party Property Damage
+SLI-26-04-0013,POL-01203,07/04/2026,Contents,Sydney | CBD,NSW,Ethan Brooks (ethan.brooks@southernlantern.example) | Southern Lantern Insurance,1496.29,Direct Deposit,Accidental Property Damage
+SLI-26-04-0014,POL-01258,18/04/2026,Home,Melbourne | St Kilda,VIC,Mia Collins (mia.collins@southernlantern.example) | Southern Lantern Insurance,17583.11,Direct Deposit,Water Ingress
+SLI-26-04-0015,POL-01234,13/04/2026,Travel,Brisbane | CBD,QLD,Asha Patel (asha.patel@southernlantern.example) | Southern Lantern Insurance,2838.16,Bank Transfer,Trip Cancellation
+SLI-26-04-0016,POL-01268,12/04/2026,Home,Melbourne | Richmond,VIC,Luca Bennett (luca.bennett@southernlantern.example) | Southern Lantern Insurance,7444.40,Direct Deposit,Water Ingress
+SLI-26-04-0017,POL-01269,30/04/2026,Home,Sydney | CBD,NSW,Noah Singh (noah.singh@southernlantern.example) | Southern Lantern Insurance,9695.19,EFT,Roof Storm Damage
+SLI-26-04-0018,POL-01306,03/04/2026,Motor,Bunbury | Central,WA,Luca Bennett (luca.bennett@southernlantern.example) | Southern Lantern Insurance,11341.97,EFT,Theft-Related Vehicle Damage
+SLI-26-04-0019,POL-01312,09/04/2026,Motor,Sydney | Chatswood,NSW,Asha Patel (asha.patel@southernlantern.example) | Southern Lantern Insurance,14343.13,Bank Transfer,Vehicle Collision Repair
+SLI-26-04-0020,POL-01256,16/04/2026,Contents,Hobart | CBD,TAS,Asha Patel (asha.patel@southernlantern.example) | Southern Lantern Insurance,3467.89,EFT,Accidental Property Damage
+SLI-26-04-0021,POL-01224,21/04/2026,Commercial Property,Bunbury | Central,WA,Luca Bennett (luca.bennett@southernlantern.example) | Southern Lantern Insurance,7965.67,EFT,Commercial Water Damage
+SLI-26-04-0022,POL-01247,09/04/2026,Home,Perth | Success,WA,Luca Bennett (luca.bennett@southernlantern.example) | Southern Lantern Insurance,5025.93,Direct Deposit,Water Ingress
+SLI-26-04-0023,POL-01310,04/04/2026,Motor,Brisbane | CBD,QLD,Asha Patel (asha.patel@southernlantern.example) | Southern Lantern Insurance,10889.58,Bank Transfer,Vehicle Collision Repair
+SLI-26-04-0024,POL-01287,27/04/2026,Liability,Sydney | CBD,NSW,Noah Singh (noah.singh@southernlantern.example) | Southern Lantern Insurance,25860.95,EFT,Public Liability Settlement
+SLI-26-04-0025,POL-01281,16/04/2026,Commercial Property,Brisbane | Toowong,QLD,Mia Collins (mia.collins@southernlantern.example) | Southern Lantern Insurance,6904.76,Direct Deposit,Commercial Storm Damage
+SLI-26-04-0026,POL-01278,07/04/2026,Commercial Property,Melbourne | St Kilda,VIC,Noah Singh (noah.singh@southernlantern.example) | Southern Lantern Insurance,9213.80,Bank Transfer,Commercial Water Damage
+SLI-26-04-0027,POL-01246,04/04/2026,Commercial Property,Darwin | Casuarina,NT,Noah Singh (noah.singh@southernlantern.example) | Southern Lantern Insurance,24650.02,Bank Transfer,Commercial Storm Damage
+SLI-26-04-0028,POL-01301,16/04/2026,Contents,Sydney | CBD,NSW,Isla Morgan (isla.morgan@southernlantern.example) | Southern Lantern Insurance,403.72,EFT,Electronic Equipment Damage
+SLI-26-04-0029,POL-01288,20/04/2026,Contents,Hobart | CBD,TAS,Jordan Nguyen (jordan.nguyen@southernlantern.example) | Southern Lantern Insurance,9075.03,Direct Deposit,Electronic Equipment Damage
+SLI-26-04-0030,POL-01288,14/04/2026,Contents,Geelong | CBD,VIC,Zara Wilson (zara.wilson@southernlantern.example) | Southern Lantern Insurance,1681.90,EFT,Accidental Property Damage
+SLI-26-04-0031,POL-01211,06/04/2026,Contents,Brisbane | Toowong,QLD,Zara Wilson (zara.wilson@southernlantern.example) | Southern Lantern Insurance,11023.30,EFT,Electronic Equipment Damage
+SLI-26-04-0032,POL-01281,01/04/2026,Travel,Sydney | Parramatta,NSW,Mia Collins (mia.collins@southernlantern.example) | Southern Lantern Insurance,6716.18,Bank Transfer,Lost Baggage
+SLI-26-04-0033,POL-01306,14/04/2026,Home,Wollongong | CBD,NSW,Jordan Nguyen (jordan.nguyen@southernlantern.example) | Southern Lantern Insurance,14377.27,Bank Transfer,Roof Storm Damage
+SLI-26-04-0034,POL-01241,28/04/2026,Contents,Alice Springs | CBD,NT,Asha Patel (asha.patel@southernlantern.example) | Southern Lantern Insurance,6210.29,Direct Deposit,Electronic Equipment Damage
+SLI-26-04-0035,POL-01237,07/04/2026,Motor,Adelaide | Glenelg,SA,Asha Patel (asha.patel@southernlantern.example) | Southern Lantern Insurance,8093.69,EFT,Theft-Related Vehicle Damage
+SLI-26-04-0036,POL-01276,11/04/2026,Motor,Melbourne | St Kilda,VIC,Jordan Nguyen (jordan.nguyen@southernlantern.example) | Southern Lantern Insurance,3488.62,Bank Transfer,Storm Damage To Vehicle
+SLI-26-04-0037,POL-01249,28/04/2026,Home,Townsville | CBD,QLD,Luca Bennett (luca.bennett@southernlantern.example) | Southern Lantern Insurance,17537.36,Bank Transfer,Roof Storm Damage
+SLI-26-04-0038,POL-01255,26/04/2026,Contents,Brisbane | CBD,QLD,Ethan Brooks (ethan.brooks@southernlantern.example) | Southern Lantern Insurance,9677.44,Bank Transfer,Electronic Equipment Damage
+SLI-26-04-0039,POL-01257,15/04/2026,Home,Launceston | CBD,TAS,Noah Singh (noah.singh@southernlantern.example) | Southern Lantern Insurance,3984.34,Direct Deposit,Accidental Property Damage
+SLI-26-04-0040,POL-01227,12/04/2026,Home,Hobart | CBD,TAS,Luca Bennett (luca.bennett@southernlantern.example) | Southern Lantern Insurance,10550.98,EFT,Water Ingress
+SLI-26-04-0041,POL-01236,26/04/2026,Contents,Wollongong | CBD,NSW,Zara Wilson (zara.wilson@southernlantern.example) | Southern Lantern Insurance,6346.06,Direct Deposit,Accidental Property Damage
+SLI-26-04-0042,POL-01254,01/04/2026,Motor,Melbourne | CBD,VIC,Jordan Nguyen (jordan.nguyen@southernlantern.example) | Southern Lantern Insurance,813.26,Bank Transfer,Storm Damage To Vehicle
+SLI-26-04-0043,POL-01247,06/04/2026,Motor,Canberra | Civic,ACT,Zara Wilson (zara.wilson@southernlantern.example) | Southern Lantern Insurance,3341.97,Bank Transfer,Theft-Related Vehicle Damage
+SLI-26-04-0044,POL-01204,14/04/2026,Motor,Perth | CBD,WA,Isla Morgan (isla.morgan@southernlantern.example) | Southern Lantern Insurance,1435.32,EFT,Storm Damage To Vehicle
+SLI-26-04-0045,POL-01200,29/04/2026,Motor,Bunbury | Central,WA,Asha Patel (asha.patel@southernlantern.example) | Southern Lantern Insurance,2082.00,EFT,Storm Damage To Vehicle
+SLI-26-04-0046,POL-01255,14/04/2026,Travel,Townsville | CBD,QLD,Mia Collins (mia.collins@southernlantern.example) | Southern Lantern Insurance,5204.88,Direct Deposit,Medical Expenses
+SLI-26-04-0047,POL-01303,30/04/2026,Travel,Brisbane | Toowong,QLD,Mia Collins (mia.collins@southernlantern.example) | Southern Lantern Insurance,560.33,EFT,Medical Expenses
+SLI-26-04-0048,POL-01209,12/04/2026,Contents,Sydney | CBD,NSW,Jordan Nguyen (jordan.nguyen@southernlantern.example) | Southern Lantern Insurance,4885.52,EFT,Electronic Equipment Damage
+SLI-26-04-0049,POL-01248,05/04/2026,Travel,Adelaide | Norwood,SA,Mia Collins (mia.collins@southernlantern.example) | Southern Lantern Insurance,5783.44,EFT,Trip Cancellation
+SLI-26-04-0050,POL-01281,25/04/2026,Contents,Alice Springs | CBD,NT,Noah Singh (noah.singh@southernlantern.example) | Southern Lantern Insurance,3033.87,Bank Transfer,Electronic Equipment Damage
+SLI-26-04-0051,POL-01200,22/04/2026,Motor,Wollongong | CBD,NSW,Isla Morgan (isla.morgan@southernlantern.example) | Southern Lantern Insurance,10174.64,Direct Deposit,Windscreen Replacement
+SLI-26-04-0052,POL-01229,25/04/2026,Home,Melbourne | St Kilda,VIC,Asha Patel (asha.patel@southernlantern.example) | Southern Lantern Insurance,816.30,Bank Transfer,Water Ingress
+SLI-26-04-0053,POL-01298,24/04/2026,Commercial Property,Perth | Fremantle,WA,Noah Singh (noah.singh@southernlantern.example) | Southern Lantern Insurance,22442.37,Direct Deposit,Equipment Repair
